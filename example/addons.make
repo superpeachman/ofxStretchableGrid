@@ -1,0 +1,6 @@
+ofxStretchableGrid
+ofxKinect
+ofxOpenCv
+ofxCv
+ofxGui
+ofxEasing
