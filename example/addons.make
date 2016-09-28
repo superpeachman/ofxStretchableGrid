@@ -1,5 +1,5 @@
-ofxStretchableGrid
 ofxKinect
+ofxStretchableGrid
 ofxOpenCv
 ofxCv
 ofxGui
