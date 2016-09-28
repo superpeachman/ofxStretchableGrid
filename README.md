@@ -19,12 +19,7 @@ Installation
 
 Dependencies
 ------------
-ofxStretchableGrid
-ofxKinect
-ofxOpenCv
-ofxCv
-ofxGui
-ofxEasing
+ofxStretchableGrid, ofxKinect, ofxOpenCv, ofxCv, ofxGui, ofxEasing
 
 Compatibility
 ------------
